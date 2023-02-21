@@ -75,9 +75,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## Team
 
-[![Mark Byrne](Team Lead - Database)]  | [![Richard Collins]](BackEnd Developer - Scrum Master)]  | [![Liam Denning]](Website Front-End/Back-End)]  | [![Kealan Crilly](Security - UI/UX)   | [![Himansh Arora](Testing)
----|---
-[Mark Byrne](https://business.bing.com/api/v3/search/person/photo?caller=IP&id=1f96e979-63ce-4e3d-84b3-093fb69a2252) |[GymVision](https://www.quandl.com)
+
 
 ## [License]
 
