@@ -1,4 +1,4 @@
-# ![WebApp](https://iharsh234.github.io/WebApp/images/demo/demo_landing.JPG)
+
 # GymVision SetStats
 <table>
 <tr>
@@ -75,7 +75,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## Team
 
-[![Mark Byrne](https://business.bing.com/api/v3/search/person/photo?caller=IP&id=1f96e979-63ce-4e3d-84b3-093fb69a2252)](Team Lead - Database)  | [![Richard Collins](https://mahara.dkit.ie/thumb.php?type=profileiconbyid&maxwidth=50&maxheight=50&id=398411)](BackEnd Developer - Scrum Master)  | [![Liam Denning](https://github.com/iharsh234/WebApp/blob/master/images/quandl.jpg)](https://www.quandl.com/)  | [![Kealan Crilly](https://mahara.dkit.ie/thumb.php?type=profileiconbyid&maxwidth=50&maxheight=50&id=260351)](Security - UI/UX)   | [![Himansh Arora](https://mahara.dkit.ie/thumb.php?type=profileiconbyid&maxwidth=50&maxheight=50&id=285309)](Testing)
+[![Mark Byrne](Team Lead - Database)]  | [![Richard Collins]](BackEnd Developer - Scrum Master)]  | [![Liam Denning]](Website Front-End/Back-End)]  | [![Kealan Crilly](Security - UI/UX)   | [![Himansh Arora](Testing)
 ---|---
 [Mark Byrne](https://business.bing.com/api/v3/search/person/photo?caller=IP&id=1f96e979-63ce-4e3d-84b3-093fb69a2252) |[GymVision](https://www.quandl.com)
 
